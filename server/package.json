@@ -1,0 +1,19 @@
+{
+    "name": "qooxdoo-lsp-server",
+    "description": "Implementation of a language server.",
+    "version": "0.1.0",
+    "author": "Dmitrii Zolotov (goldim) zolotovdy@yandex.ru",
+    "license": "MIT",
+    "engines": {
+        "node": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goldim/qooxdoo-lsp"
+    },
+    "dependencies": {
+        "vscode-languageserver": "^7.0.0",
+        "vscode-languageserver-textdocument": "^1.0.4"
+    },
+    "scripts": {}
+}
