@@ -1,0 +1,22 @@
+{
+    "name": "qooxdoo-lsp-client",
+    "description": "VSCode part of a language server",
+    "author": "Dmitrii Zolotov (goldim) zolotovdy@yandex.ru",
+    "license": "MIT",
+    "version": "0.1.0",
+    "publisher": "goldim",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goldim/qooxdoo-lsp"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "dependencies": {
+        "vscode-languageclient": "^7.0.0"
+    },
+    "devDependencies": {
+        "@types/vscode": "^1.63.0",
+        "@vscode/test-electron": "^2.1.2"
+    }
+}
